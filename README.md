@@ -9,3 +9,5 @@ For every shift register exist an array with every value that should take and wi
 Arduino has declared a shift-out function, but I preferred to make it from scratch to understand the way it is sent 
 
 ## Schematics
+![alt text](https://github.com/Andreiili/3X3-LED-CUBE_2020/blob/main/Schematics.png "Schematic 1")
+
